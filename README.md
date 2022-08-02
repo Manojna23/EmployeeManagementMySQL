@@ -1,4 +1,4 @@
-# EmployeeManagementMySQL
+# EmployeeManagement
 
 This project makes use of the following technologies:
 1. SpringBoot
